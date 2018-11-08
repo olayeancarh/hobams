@@ -1,0 +1,6 @@
+Django==2.1.2
+djangorestframework==3.8.2
+packaging==18.0
+pyparsing==2.2.2
+pytz==2018.5
+six==1.11.0
